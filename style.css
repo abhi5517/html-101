@@ -1,0 +1,25 @@
+body{
+    max-width: 900px;
+    margin: 0;
+}
+.big-img {
+    width: 800px;
+    height: 600px;
+    margin: 0;
+}
+
+.small-img{
+    width: 300px;
+    height: 100px;
+    border-radius: 100%;
+}
+
+p{
+    width: 100%;
+}
+
+footer{
+    height: 100px;
+    text-align: center;
+    background-color: aqua;
+}
